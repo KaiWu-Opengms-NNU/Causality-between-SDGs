@@ -1,4 +1,4 @@
-# How to run the code for Opposing causality between Sustainable Development Goals across spatial scales hinders policy coherence
+# How to run the code for Changing causality between Sustainable Development Goals across spatial scales hinders policy coherence
 
 
 
